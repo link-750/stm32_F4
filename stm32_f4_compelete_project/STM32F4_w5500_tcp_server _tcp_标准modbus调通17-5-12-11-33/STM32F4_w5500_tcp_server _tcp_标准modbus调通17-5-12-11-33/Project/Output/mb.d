@@ -1,0 +1,16 @@
+.\output\mb.o: ..\modbus\mb.c
+.\output\mb.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\mb.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\mb.o: ..\modbus\BARE\port\port.h
+.\output\mb.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\output\mb.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\output\mb.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\mb.o: ..\modbus\include\mb.h
+.\output\mb.o: ..\modbus\include\mbport.h
+.\output\mb.o: ..\modbus\include\mbproto.h
+.\output\mb.o: ..\modbus\include\mbconfig.h
+.\output\mb.o: ..\modbus\include\mbframe.h
+.\output\mb.o: ..\modbus\include\mbfunc.h
+.\output\mb.o: ..\modbus\rtu\mbrtu.h
+.\output\mb.o: ..\modbus\ascii\mbascii.h
+.\output\mb.o: ..\modbus\tcp\mbtcp.h

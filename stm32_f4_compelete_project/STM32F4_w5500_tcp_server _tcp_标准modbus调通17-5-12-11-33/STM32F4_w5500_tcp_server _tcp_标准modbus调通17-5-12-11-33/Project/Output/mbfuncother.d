@@ -1,0 +1,12 @@
+.\output\mbfuncother.o: ..\modbus\functions\mbfuncother.c
+.\output\mbfuncother.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\mbfuncother.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\mbfuncother.o: ..\modbus\BARE\port\port.h
+.\output\mbfuncother.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\output\mbfuncother.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\output\mbfuncother.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\mbfuncother.o: ..\modbus\include\mb.h
+.\output\mbfuncother.o: ..\modbus\include\mbport.h
+.\output\mbfuncother.o: ..\modbus\include\mbproto.h
+.\output\mbfuncother.o: ..\modbus\include\mbframe.h
+.\output\mbfuncother.o: ..\modbus\include\mbconfig.h

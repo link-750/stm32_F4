@@ -1,0 +1,13 @@
+.\output\mbrtu.o: ..\User\modbus_Driver\rtu\mbrtu.c
+.\output\mbrtu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\mbrtu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\mbrtu.o: ..\User\modbus_user\port\port.h
+.\output\mbrtu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\output\mbrtu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\output\mbrtu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\mbrtu.o: ..\User\modbus_Driver\include\mb.h
+.\output\mbrtu.o: ..\User\modbus_Driver\include\mbport.h
+.\output\mbrtu.o: ..\User\modbus_Driver\include\mbproto.h
+.\output\mbrtu.o: ..\User\modbus_Driver\rtu\mbrtu.h
+.\output\mbrtu.o: ..\User\modbus_Driver\include\mbframe.h
+.\output\mbrtu.o: ..\User\modbus_Driver\rtu\mbcrc.h

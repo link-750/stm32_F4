@@ -1,0 +1,12 @@
+.\output\mbfuncinput.o: ..\User\modbus_Driver\functions\mbfuncinput.c
+.\output\mbfuncinput.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\mbfuncinput.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\mbfuncinput.o: ..\User\modbus_user\port\port.h
+.\output\mbfuncinput.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\output\mbfuncinput.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\output\mbfuncinput.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\mbfuncinput.o: ..\User\modbus_Driver\include\mb.h
+.\output\mbfuncinput.o: ..\User\modbus_Driver\include\mbport.h
+.\output\mbfuncinput.o: ..\User\modbus_Driver\include\mbproto.h
+.\output\mbfuncinput.o: ..\User\modbus_Driver\include\mbframe.h
+.\output\mbfuncinput.o: ..\User\modbus_Driver\include\mbconfig.h

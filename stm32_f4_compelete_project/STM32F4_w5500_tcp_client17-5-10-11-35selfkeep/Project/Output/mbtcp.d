@@ -1,0 +1,13 @@
+.\output\mbtcp.o: ..\User\modbus_Driver\tcp\mbtcp.c
+.\output\mbtcp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\mbtcp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\mbtcp.o: ..\User\modbus_user\port\port.h
+.\output\mbtcp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\output\mbtcp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\output\mbtcp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\mbtcp.o: ..\User\modbus_Driver\include\mb.h
+.\output\mbtcp.o: ..\User\modbus_Driver\include\mbport.h
+.\output\mbtcp.o: ..\User\modbus_Driver\include\mbproto.h
+.\output\mbtcp.o: ..\User\modbus_Driver\include\mbconfig.h
+.\output\mbtcp.o: ..\User\modbus_Driver\tcp\mbtcp.h
+.\output\mbtcp.o: ..\User\modbus_Driver\include\mbframe.h

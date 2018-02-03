@@ -1,0 +1,14 @@
+.\output\porttcp.o: ..\modbus\porttcp.c
+.\output\porttcp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\porttcp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\porttcp.o: ..\modbus\BARE\port\port.h
+.\output\porttcp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\output\porttcp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\output\porttcp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\porttcp.o: ..\modbus\include\mb.h
+.\output\porttcp.o: ..\modbus\include\mbport.h
+.\output\porttcp.o: ..\modbus\include\mbproto.h
+.\output\porttcp.o: ..\User\Ethernet\socket.h
+.\output\porttcp.o: ..\User\Ethernet/wizchip_conf.h
+.\output\porttcp.o: ..\User\Ethernet/W5500/w5500.h
+.\output\porttcp.o: ..\User\Ethernet/wizchip_conf.h
